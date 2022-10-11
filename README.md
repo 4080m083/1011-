@@ -14,7 +14,7 @@ return 0;
 ```
 
 
-#[6]巢狀廻圈Nested Loop[自主學習主題]
+# [6]巢狀廻圈Nested Loop[自主學習主題]
 ### -程式設計題:九九乘法表
 ```C 
 for i in range(1, 10):
