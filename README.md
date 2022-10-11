@@ -1,5 +1,5 @@
 # 1011-C語言
-##作業 
+作業 
 -C語言 
 ```C 
 #include <stdio.h> int main() {
