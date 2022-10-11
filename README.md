@@ -1,6 +1,6 @@
 # 1011-C語言
-作業 
-- C語言
+
+- 作業 C語言
 ```C 
 #include <stdio.h> int main() {
 int i = 0;
